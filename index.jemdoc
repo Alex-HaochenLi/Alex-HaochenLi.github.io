@@ -1,0 +1,94 @@
+# jemdoc: {index.html}, nofooter  
+==Haochen Li's  Homepage
+
+~~~
+{}{img_left}{pic/bio.jpg}{alt text}{150}{160}{https://yanlin.info/}
+Ph.D Student \n
+[School of Computer Science and Engineering] \n
+[Nanyang Technological University, Singapore] \n
+E-mail: haochen003@e.ntu.edu.sg \n
+\[[https://github.com/Alex-HaochenLi GitHub]\] \[https://twitter.com/AlexHaochenli Twitter\]
+~~~
+
+== About me
+I am now a second-year Ph.D student, advised by Prof.[https://dr.ntu.edu.sg/cris/rp/rp00084 Chunyan Miao].
+I received my bachelor degree in Electrical Engineering and Economics in July 2021.
+My research interest is Code Intelligence,
+which lies in natural language processing combined with software engineering.
+
+Recently, I focus on: . Representation Learning . Code Search
+
+#I joined Software Engineering School, Sun Yat-sen University as an assistant professor in July 2022.
+#Previously, I worked at [https://www.microsoft.com/en-us/research/people/yanlwang/ Microsoft Research Asia], Data, Knowledge, and Intelligence (DKI) group as a senior researcher.
+#I received the B.S. degree in computer science from Zhejiang University and the PhD degree from the University of Hong Kong under the supervision of
+# [https://www.cs.hku.hk/~bruno Prof. Bruno C. d. S. Oliveira].
+
+#~~~
+#{}{raw}
+#<p style="color:#BB0000";><strong>Our lab has several intern positions. If you are a self-motivated student with strong interests in Software Engineering, Programming Languages, and/or Deep Learning, etc.,  please send me your CV.</strong></p> 
+#~~~
+
+#My research interests include:
+#- Software engineering
+#- Programming languages
+#- Artificial intelligence
+#- Recommender systems
+
+#== Recent news
+#- *(Pinned)* I am currently on the program committee of [https://conf.researchr.org/home/icse-2024 ICSE 2024], [https://2023.esec-fse.org/track/fse-2023-industry FSE 2023 Industry Track], [https://coling2022.org/ COLING 2022], [https://2022.ecoop.org/home/scala-ecoop-2022 Scala 2022], [https://2021.icse-conferences.org/track/fse-2022/fse-2022-industry FSE 2022 industry track], and [https://icsme2021.github.io/cfp/IndustryTrack.html ICSME 2022 industry track]. Please consider submitting a paper!
+#- *2022/11.* New paper accepted at AAAI 2023.
+#- *2022/10.* New paper accepted at WSDM 2023.
+#- *2022/10.* Two papers accepted at EMNLP 2022.
+#- *2022/09.* New paper accepted at EMSE 2022.
+#- *2022/05.* New paper accepted at KDD 2022 Applied Data Science Track.
+#- *2022/03.* New paper accepted at MSR 2022.
+#- *2022/02.* Two papers accepted at ACL 2022.
+#- *2021/12.* New paper accepted at ICSE 2022.
+#- *2021/08.* New papers accepted at EMNLP 2021 and CIKM 2021.
+#- *2021/06.* New paper accepted at ICSME 2021.
+#- *2020/12.* New paper accepted at AAAI 2021.
+
+== Publications 
+#Note: * for corresponding author, \# for equal contribution.
+
+=== Conferences and Journals
+. *Exploring Representation-level Augmentation for Code Search* \n
+  Haochen Li, Chunyan Miao, Cyril Leung, Yanxian Huang, Yuan Huang, Hongyu Zhang and Yanlin Wang \n
+  In The 2022 Conference on Empirical Methods in Natural Language Processing. (*EMNLP 2022*). \n
+  \[[https://arxiv.org/abs/2208.11274v1 pdf]\] \[https://github.com/Alex-HaochenLi/RACS code\]
+
+#=== Preprints
+#. CoCoSUM: Contextual Code Summarization with Multi-Relational Graph Neural Network \n
+#  Yanlin Wang, Ensheng Shi, Lun Du, Xiaodi Yang, Yuxuan Hu, Shi Han, Hongyu Zhang, Dongmei Zhang\n
+#  Arxiv, 2021. \n
+#  \[[https://arxiv.org/pdf/2107.01933.pdf pdf]\]
+
+== Experiences
+- Research Intern in Microsoft Research Asia \n
+Nov. 2021 -- Dec.2021  Advisor: Prof.[https://yanlin.info/ Yanlin Wang] \n
+Topic: Code Search
+
+- Deep Learning Intern in Mech-Mind Robotics \n
+Nov. 2020 -- Apr. 2021 \n
+Topic: Object Detection, Image Segmentation and Anomaly Detection \n
+
+- Research Intern in Institute of Software, Chinese Academy of Sciences \n
+Jan. 2020 -- Aug. 2020 Advisor: Prof.[https://people.ucas.ac.cn/~jingzheng Jingzheng Wu] \n
+Topic: Code Representation Learning
+
+
+== Professional services
+- Program Committee: ACL
+- Reviewer: EMNLP
+
+#== Teaching Assistant (taught in English)
+#- Computer Programming, The University of Hong Kong, 2016
+#- Functional Programming, The University of Hong Kong, 2016
+#- Object-Oriented Programming and Java, The University of Hong Kong, 2015
+#- Computer Programming, The University of Hong Kong, 2014
+
+#== Useful Links
+#Deadlines: [https://ddl.yanlin.info ddl-ours], [https://ccfddl.github.io/ ddl-all] \n
+#CCF list: [https://ccf.atom.im/ ccf.atom.im]
+
+# [cv.pdf A brief cv].
