@@ -2,21 +2,21 @@
 ==Haochen Li's  Homepage
 
 ~~~
-{}{img_left}{pic/bio.jpg}{alt text}{150}{160}{https://yanlin.info/}
+{}{img_left}{pic/profile.jpg}{alt text}{200}{225}{https://alex-haochenli.github.io/}
 Ph.D Student \n
-[School of Computer Science and Engineering] \n
-[Nanyang Technological University, Singapore] \n
+School of Computer Science and Engineering \n
+Nanyang Technological University, Singapore \n
 E-mail: haochen003@e.ntu.edu.sg \n
-\[[https://github.com/Alex-HaochenLi GitHub]\] \[https://twitter.com/AlexHaochenli Twitter\]
+\[[https://github.com/Alex-HaochenLi GitHub]\] \[[https://twitter.com/AlexHaochenli Twitter]\]
 ~~~
 
 == About me
-I am now a second-year Ph.D student, advised by Prof.[https://dr.ntu.edu.sg/cris/rp/rp00084 Chunyan Miao].
+I am now a second-year Ph.D student, advised by [https://dr.ntu.edu.sg/cris/rp/rp00084 Prof. Chunyan Miao].
 I received my bachelor degree in Electrical Engineering and Economics in July 2021.
 My research interest is Code Intelligence,
 which lies in natural language processing combined with software engineering.
 
-Recently, I focus on: . Representation Learning . Code Search
+Recently, I focus on: 1) Representation Learning 2) Code Search
 
 #I joined Software Engineering School, Sun Yat-sen University as an assistant professor in July 2022.
 #Previously, I worked at [https://www.microsoft.com/en-us/research/people/yanlwang/ Microsoft Research Asia], Data, Knowledge, and Intelligence (DKI) group as a senior researcher.
@@ -40,13 +40,7 @@ Recently, I focus on: . Representation Learning . Code Search
 #- *2022/10.* New paper accepted at WSDM 2023.
 #- *2022/10.* Two papers accepted at EMNLP 2022.
 #- *2022/09.* New paper accepted at EMSE 2022.
-#- *2022/05.* New paper accepted at KDD 2022 Applied Data Science Track.
-#- *2022/03.* New paper accepted at MSR 2022.
-#- *2022/02.* Two papers accepted at ACL 2022.
-#- *2021/12.* New paper accepted at ICSE 2022.
-#- *2021/08.* New papers accepted at EMNLP 2021 and CIKM 2021.
-#- *2021/06.* New paper accepted at ICSME 2021.
-#- *2020/12.* New paper accepted at AAAI 2021.
+
 
 == Publications 
 #Note: * for corresponding author, \# for equal contribution.
@@ -55,7 +49,7 @@ Recently, I focus on: . Representation Learning . Code Search
 . *Exploring Representation-level Augmentation for Code Search* \n
   Haochen Li, Chunyan Miao, Cyril Leung, Yanxian Huang, Yuan Huang, Hongyu Zhang and Yanlin Wang \n
   In The 2022 Conference on Empirical Methods in Natural Language Processing. (*EMNLP 2022*). \n
-  \[[https://arxiv.org/abs/2208.11274v1 pdf]\] \[https://github.com/Alex-HaochenLi/RACS code\]
+  \[[https://arxiv.org/abs/2208.11274v1 pdf]\] \[[https://github.com/Alex-HaochenLi/RACS code]\]
 
 #=== Preprints
 #. CoCoSUM: Contextual Code Summarization with Multi-Relational Graph Neural Network \n
@@ -65,7 +59,7 @@ Recently, I focus on: . Representation Learning . Code Search
 
 == Experiences
 - Research Intern in Microsoft Research Asia \n
-Nov. 2021 -- Dec.2021  Advisor: Prof.[https://yanlin.info/ Yanlin Wang] \n
+Nov. 2021 -- Dec.2021  Advisor: [https://yanlin.info/ Prof. Yanlin Wang] \n
 Topic: Code Search
 
 - Deep Learning Intern in Mech-Mind Robotics \n
@@ -73,7 +67,7 @@ Nov. 2020 -- Apr. 2021 \n
 Topic: Object Detection, Image Segmentation and Anomaly Detection \n
 
 - Research Intern in Institute of Software, Chinese Academy of Sciences \n
-Jan. 2020 -- Aug. 2020 Advisor: Prof.[https://people.ucas.ac.cn/~jingzheng Jingzheng Wu] \n
+Jan. 2020 -- Aug. 2020 Advisor: [https://people.ucas.ac.cn/~jingzheng Prof. Jingzheng Wu] \n
 Topic: Code Representation Learning
 
 
