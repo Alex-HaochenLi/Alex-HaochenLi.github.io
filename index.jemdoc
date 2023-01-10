@@ -12,11 +12,11 @@ E-mail: haochen003@e.ntu.edu.sg \n
 
 == About me
 I am now a second-year Ph.D student, advised by [https://dr.ntu.edu.sg/cris/rp/rp00084 Prof. Chunyan Miao].
-I received my bachelor degree in Electrical Engineering and Economics in July 2021.
+I received my B.Eng. degree in Electrical Engineering and B.A. degree in Economics in July 2021.
 My research interest is Code Intelligence,
 which lies in natural language processing combined with software engineering.
 
-Recently, I focus on: 1) Representation Learning 2) Code Search
+Specifically, I focus on: 1) Representation Learning 2) Code Search
 
 #I joined Software Engineering School, Sun Yat-sen University as an assistant professor in July 2022.
 #Previously, I worked at [https://www.microsoft.com/en-us/research/people/yanlwang/ Microsoft Research Asia], Data, Knowledge, and Intelligence (DKI) group as a senior researcher.
@@ -49,7 +49,7 @@ Recently, I focus on: 1) Representation Learning 2) Code Search
 . *Exploring Representation-level Augmentation for Code Search* \n
   Haochen Li, Chunyan Miao, Cyril Leung, Yanxian Huang, Yuan Huang, Hongyu Zhang and Yanlin Wang \n
   In The 2022 Conference on Empirical Methods in Natural Language Processing. (*EMNLP 2022*). \n
-  \[[https://arxiv.org/abs/2208.11274v1 pdf]\] \[[https://github.com/Alex-HaochenLi/RACS code]\]
+  \[[https://arxiv.org/abs/2210.12285 pdf]\] \[[https://github.com/Alex-HaochenLi/RACS code]\]
 
 #=== Preprints
 #. CoCoSUM: Contextual Code Summarization with Multi-Relational Graph Neural Network \n
@@ -62,7 +62,7 @@ Recently, I focus on: 1) Representation Learning 2) Code Search
 Nov. 2021 -- Dec.2021  Advisor: [https://yanlin.info/ Prof. Yanlin Wang] \n
 Topic: Code Search
 
-- Deep Learning Intern in Mech-Mind Robotics \n
+- Deep Learning Intern in Mech-Mind Robotics Inc. \n
 Nov. 2020 -- Apr. 2021 \n
 Topic: Object Detection, Image Segmentation and Anomaly Detection \n
 
