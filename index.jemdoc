@@ -47,15 +47,16 @@ Specifically, I focus on: 1) Representation Learning 2) Code Search 3) Large Lan
 #Note: * for corresponding author, \# for equal contribution.
 
 === Conferences and Journals
+
+. *Rethinking Negative Pairs in Code Search* \n
+  *Haochen Li*, Xin Zhou, Luu Anh Tuan, and Chunyan Miao \n
+  In The 2023 Conference on Empirical Methods in Natural Language Processing. (*EMNLP 2023*). \n
+  \[[https://arxiv.org/abs/2310.08069 paper]\] \[[https://github.com/Alex-HaochenLi/Soft-InfoNCE code]\] \n
 . *Exploring Representation-level Augmentation for Code Search* \n
   *Haochen Li*, Chunyan Miao, Cyril Leung, Yanxian Huang, Yuan Huang, Hongyu Zhang, and Yanlin Wang \n
   In The 2022 Conference on Empirical Methods in Natural Language Processing. (*EMNLP 2022*). \n
-  \[[https://aclanthology.org/2022.emnlp-main.327/ pdf]\] \[[https://github.com/Alex-HaochenLi/RACS code]\]
+  \[[https://aclanthology.org/2022.emnlp-main.327/ paper]\] \[[https://github.com/Alex-HaochenLi/RACS code]\] \n
 
-. *Rethinking Negative Pairs in Code Search* \n
-*Haochen Li*, Xin Zhou, Luu Anh Tuan, and Chunyan Miao \n
-In The 2023 Conference on Empirical Methods in Natural Language Processing. (*EMNLP 2023*). \n
-\[[https://arxiv.org/abs/2310.08069 pdf]\] \[[https://github.com/Alex-HaochenLi/Soft-InfoNCE code]\]
 
 #=== Preprints
 #. CoCoSUM: Contextual Code Summarization with Multi-Relational Graph Neural Network \n
