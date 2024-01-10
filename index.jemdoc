@@ -17,7 +17,7 @@ I received my B.Eng. degree in Electrical Engineering and B.A. degree in Economi
 My research interest is Code Intelligence,
 which lies in natural language processing combined with software engineering.
 
-Specifically, I focus on: 1) Representation Learning 2) Code Search 3) Large Language Model
+Specifically, I focus on: 1) Code Search 2) Multimodal Representation Learning  3) Code Large Language Model
 
 #I joined Software Engineering School, Sun Yat-sen University as an assistant professor in July 2022.
 #Previously, I worked at [https://www.microsoft.com/en-us/research/people/yanlwang/ Microsoft Research Asia], Data, Knowledge, and Intelligence (DKI) group as a senior researcher.
@@ -46,6 +46,12 @@ Specifically, I focus on: 1) Representation Learning 2) Code Search 3) Large Lan
 == Publications 
 #Note: * for corresponding author, \# for equal contribution.
 
+=== Preprints
+. *Rewriting the Code: A Simple Method for Large Language Model Augmented Code Search* \n
+  *Haochen Li*, Xin Zhou, and Zhiqi Shen \n
+  Arxiv, 2024.
+  \[[https://arxiv.org/pdf/2401.04514.pdf paper]\]
+
 === Conferences and Journals
 
 . *Rethinking Negative Pairs in Code Search* \n
@@ -57,12 +63,6 @@ Specifically, I focus on: 1) Representation Learning 2) Code Search 3) Large Lan
   In The 2022 Conference on Empirical Methods in Natural Language Processing. (*EMNLP 2022*). \n
   \[[https://aclanthology.org/2022.emnlp-main.327/ paper]\] \[[https://github.com/Alex-HaochenLi/RACS code]\] \n
 
-
-#=== Preprints
-#. CoCoSUM: Contextual Code Summarization with Multi-Relational Graph Neural Network \n
-#  Yanlin Wang, Ensheng Shi, Lun Du, Xiaodi Yang, Yuxuan Hu, Shi Han, Hongyu Zhang, Dongmei Zhang\n
-#  Arxiv, 2021. \n
-#  \[[https://arxiv.org/pdf/2107.01933.pdf pdf]\]
 
 == Experiences
 - Research Intern in Microsoft Research Asia \n
