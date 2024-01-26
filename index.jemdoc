@@ -47,6 +47,10 @@ Specifically, I focus on: 1) Code Search 2) Multimodal Representation Learning  
 #Note: * for corresponding author, \# for equal contribution.
 
 === Preprints
+. *Towards Goal-oriented Large Language Model Prompting: A Survey* \n
+  *Haochen Li*, Jonathan Leung, and Zhiqi Shen \n
+  Arxiv, 2024.
+  \[[https://arxiv.org/pdf/2401.14043.pdf paper]\]
 . *Rewriting the Code: A Simple Method for Large Language Model Augmented Code Search* \n
   *Haochen Li*, Xin Zhou, and Zhiqi Shen \n
   Arxiv, 2024.
@@ -57,11 +61,11 @@ Specifically, I focus on: 1) Code Search 2) Multimodal Representation Learning  
 . *Rethinking Negative Pairs in Code Search* \n
   *Haochen Li*, Xin Zhou, Luu Anh Tuan, and Chunyan Miao \n
   In The 2023 Conference on Empirical Methods in Natural Language Processing. (*EMNLP 2023*). \n
-  \[[https://arxiv.org/abs/2310.08069 paper]\] \[[https://github.com/Alex-HaochenLi/Soft-InfoNCE code]\] \n
+  \[[https://aclanthology.org/2023.emnlp-main.786.pdf paper]\] \[[https://github.com/Alex-HaochenLi/Soft-InfoNCE code]\] \n
 . *Exploring Representation-level Augmentation for Code Search* \n
   *Haochen Li*, Chunyan Miao, Cyril Leung, Yanxian Huang, Yuan Huang, Hongyu Zhang, and Yanlin Wang \n
   In The 2022 Conference on Empirical Methods in Natural Language Processing. (*EMNLP 2022*). \n
-  \[[https://aclanthology.org/2022.emnlp-main.327/ paper]\] \[[https://github.com/Alex-HaochenLi/RACS code]\] \n
+  \[[https://aclanthology.org/2022.emnlp-main.327.pdf paper]\] \[[https://github.com/Alex-HaochenLi/RACS code]\] \n
 
 
 == Experiences
