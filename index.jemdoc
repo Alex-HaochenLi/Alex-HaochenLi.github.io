@@ -4,7 +4,7 @@
 ~~~
 {}{img_left}{pic/profile.jpg}{alt text}{200}{225}{https://alex-haochenli.github.io/}
 Ph.D Student \n
-School of Computer Science and Engineering \n
+College of Computing and Data Science \n
 Nanyang Technological University, Singapore \n
 E-mail: haochen003 \[AT\] e.ntu.edu.sg \n
 \[[https://github.com/Alex-HaochenLi GitHub]\] \[[https://twitter.com/AlexHaochenli Twitter]\]
@@ -12,28 +12,20 @@ E-mail: haochen003 \[AT\] e.ntu.edu.sg \n
 ~~~
 
 == About me
-I am now a second-year Ph.D student, advised by [https://dr.ntu.edu.sg/cris/rp/rp00084 Prof. Chunyan Miao].
+I am now a third-year Ph.D student, advised by [https://dr.ntu.edu.sg/cris/rp/rp00084 Prof. Chunyan Miao].
 I received my B.Eng. degree in Electrical Engineering and B.A. degree in Economics in July 2021.
-My research interest is Code Intelligence,
-which lies in natural language processing combined with software engineering.
 
-Specifically, I focus on: 1) Code Search 2) Multimodal Representation Learning  3) Code Large Language Model
+My research aims at bridging programming language and natural language. Specifically, I focus on
+ code search (code retrieval) \[[https://aclanthology.org/2022.emnlp-main.327.pdf EMNLP'22], [https://aclanthology.org/2023.emnlp-main.786.pdf EMNLP'23]\],
+  code generation, and the synergy of the two through Generation-Augmented Retrieval \[[https://arxiv.org/pdf/2401.04514.pdf ACL'24]\]
+ and Retrieval-Augmented Generation framework.
 
-#I joined Software Engineering School, Sun Yat-sen University as an assistant professor in July 2022.
-#Previously, I worked at [https://www.microsoft.com/en-us/research/people/yanlwang/ Microsoft Research Asia], Data, Knowledge, and Intelligence (DKI) group as a senior researcher.
-#I received the B.S. degree in computer science from Zhejiang University and the PhD degree from the University of Hong Kong under the supervision of
-# [https://www.cs.hku.hk/~bruno Prof. Bruno C. d. S. Oliveira].
 
 #~~~
 #{}{raw}
 #<p style="color:#BB0000";><strong>Our lab has several intern positions. If you are a self-motivated student with strong interests in Software Engineering, Programming Languages, and/or Deep Learning, etc.,  please send me your CV.</strong></p> 
 #~~~
 
-#My research interests include:
-#- Software engineering
-#- Programming languages
-#- Artificial intelligence
-#- Recommender systems
 
 #== Recent news
 #- *(Pinned)* I am currently on the program committee of [https://conf.researchr.org/home/icse-2024 ICSE 2024], [https://2023.esec-fse.org/track/fse-2023-industry FSE 2023 Industry Track], [https://coling2022.org/ COLING 2022], [https://2022.ecoop.org/home/scala-ecoop-2022 Scala 2022], [https://2021.icse-conferences.org/track/fse-2022/fse-2022-industry FSE 2022 industry track], and [https://icsme2021.github.io/cfp/IndustryTrack.html ICSME 2022 industry track]. Please consider submitting a paper!
@@ -51,20 +43,20 @@ Specifically, I focus on: 1) Code Search 2) Multimodal Representation Learning  
   *Haochen Li*, Jonathan Leung, and Zhiqi Shen \n
   Arxiv, 2024.
   \[[https://arxiv.org/pdf/2401.14043.pdf paper]\]
-. *Rewriting the Code: A Simple Method for Large Language Model Augmented Code Search* \n
-  *Haochen Li*, Xin Zhou, and Zhiqi Shen \n
-  Arxiv, 2024.
-  \[[https://arxiv.org/pdf/2401.04514.pdf paper]\]
 
 === Conferences and Journals
 
+. *Rewriting the Code: A Simple Method for Large Language Model Augmented Code Search* \n
+  *Haochen Li*, Xin Zhou, and Zhiqi Shen \n
+  In The 62nd Annual Meeting of the Association for Computational Linguistics. (*ACL 2024*) \n
+  \[[https://arxiv.org/pdf/2401.04514.pdf paper]\]
 . *Rethinking Negative Pairs in Code Search* \n
   *Haochen Li*, Xin Zhou, Luu Anh Tuan, and Chunyan Miao \n
-  In The 2023 Conference on Empirical Methods in Natural Language Processing. (*EMNLP 2023*). \n
+  In The 2023 Conference on Empirical Methods in Natural Language Processing. (*EMNLP 2023*) \n
   \[[https://aclanthology.org/2023.emnlp-main.786.pdf paper]\] \[[https://github.com/Alex-HaochenLi/Soft-InfoNCE code]\] \n
 . *Exploring Representation-level Augmentation for Code Search* \n
   *Haochen Li*, Chunyan Miao, Cyril Leung, Yanxian Huang, Yuan Huang, Hongyu Zhang, and Yanlin Wang \n
-  In The 2022 Conference on Empirical Methods in Natural Language Processing. (*EMNLP 2022*). \n
+  In The 2022 Conference on Empirical Methods in Natural Language Processing. (*EMNLP 2022*) \n
   \[[https://aclanthology.org/2022.emnlp-main.327.pdf paper]\] \[[https://github.com/Alex-HaochenLi/RACS code]\] \n
 
 
