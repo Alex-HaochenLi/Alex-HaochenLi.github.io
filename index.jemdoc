@@ -39,10 +39,14 @@ My research aims at bridging programming language and natural language. Specific
 #Note: * for corresponding author, \# for equal contribution.
 
 === Preprints
-. *Towards Goal-oriented Large Language Model Prompting: A Survey* \n
+. *Towards Goal-oriented Prompt Engineering for Large Language Models: A Survey* \n
   *Haochen Li*, Jonathan Leung, and Zhiqi Shen \n
   Arxiv, 2024.
-  \[[https://arxiv.org/pdf/2401.14043.pdf paper]\] \[[https://github.com/Alex-HaochenLi/Goal-oriented-Prompt-Engineering project website]\]
+  \[[https://arxiv.org/pdf/2401.14043.pdf paper]\] \[[https://github.com/Alex-HaochenLi/Goal-oriented-Prompt-Engineering resource]\]
+. *SEACrowd: A Multilingual Multimodal Data Hub and Benchmark Suite for Southeast Asian Languages* \n
+  Holy Lovenia, ..., *Haochen Li*, ..., Zheng-Xin Yong, and Samuel Cahyawijaya \n
+  Arxiv, 2024.
+  \[[https://arxiv.org/pdf/2406.10118 paper]\] \[[https://seacrowd.github.io/seacrowd-catalogue/ website]\]
 
 === Conferences and Journals
 
@@ -76,7 +80,7 @@ Topic: Code Representation Learning
 
 == Professional services
 Conference Reviewer / PC Members:
-- 2024: NeurIPS
+- 2024: NeurIPS, ACL ARR, EMNLP Industry Track
 - 2023: ACL, EMNLP, EMNLP Industry Track
 - 2022: EMNLP
 
