@@ -16,8 +16,8 @@ I am now a third-year Ph.D student, advised by [https://dr.ntu.edu.sg/cris/rp/rp
 I received my B.Eng. degree in Electrical Engineering and B.A. degree in Economics in July 2021.
 
 My research aims at bridging programming language and natural language. Specifically, I focus on
- code search (code retrieval) \[[https://aclanthology.org/2022.emnlp-main.327.pdf EMNLP'22], [https://aclanthology.org/2023.emnlp-main.786.pdf EMNLP'23]\],
-  code generation, and the synergy of the two through Generation-Augmented Retrieval \[[https://arxiv.org/pdf/2401.04514.pdf ACL'24]\]
+ code search (code retrieval) \[[https://aclanthology.org/2022.emnlp-main.327.pdf RACS'22], [https://aclanthology.org/2023.emnlp-main.786.pdf Soft-InfoNCE'23]\],
+  code generation \[[https://arxiv.org/pdf/2502.11466 GiFT'25]\], and the synergy of the two through Generation-Augmented Retrieval \[[https://arxiv.org/pdf/2401.04514.pdf ReCo'24]\]
  and Retrieval-Augmented Generation framework.
 
 
@@ -39,6 +39,10 @@ My research aims at bridging programming language and natural language. Specific
 #Note: * for corresponding author, \# for equal contribution.
 
 === Preprints
+. GiFT: Gibbs Fine-Tuning for Code Generation \n
+  *Haochen Li*, Wanjin Feng, Xin Zhou and Zhiqi Shen \n
+  Arxiv, 2025.
+  \[[https://arxiv.org/abs/2502.11466 paper]\]
 . Towards Goal-oriented Prompt Engineering for Large Language Models: A Survey \n
   *Haochen Li*, Jonathan Leung, and Zhiqi Shen \n
   Arxiv, 2024.
@@ -46,10 +50,6 @@ My research aims at bridging programming language and natural language. Specific
 
 === Conferences and Journals
 
-. SEACrowd: A Multilingual Multimodal Data Hub and Benchmark Suite for Southeast Asian Languages \n
-  Holy Lovenia, ..., *Haochen Li*, ..., Zheng-Xin Yong, and Samuel Cahyawijaya \n
-  In The 2024 Conference on Empirical Methods in Natural Language Processing. (*EMNLP 2024*) \n
-  \[[https://arxiv.org/pdf/2406.10118 paper]\] \[[https://seacrowd.github.io/seacrowd-catalogue/ website]\]
 . Rewriting the Code: A Simple Method for Large Language Model Augmented Code Search \n
   *Haochen Li*, Xin Zhou, and Zhiqi Shen \n
   In The 62nd Annual Meeting of the Association for Computational Linguistics. (*ACL 2024 Oral*) \n
@@ -80,6 +80,7 @@ Topic: Code Representation Learning
 
 == Professional services
 Conference Reviewer / PC Members:
+- 2025: ICML, NeurIPS, ACL ARR
 - 2024: NeurIPS, ICLR, ACL ARR, EMNLP Industry Track
 - 2023: ACL, EMNLP, EMNLP Industry Track
 - 2022: EMNLP
