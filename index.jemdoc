@@ -12,7 +12,7 @@ E-mail: haochen003 \[AT\] e.ntu.edu.sg \n
 ~~~
 
 == About me
-I am now a third-year Ph.D student, advised by [https://dr.ntu.edu.sg/cris/rp/rp00084 Prof. Chunyan Miao].
+I am a final-year Ph.D student, advised by [https://dr.ntu.edu.sg/cris/rp/rp00084 Prof. Chunyan Miao].
 I received my B.Eng. degree in Electrical Engineering and B.A. degree in Economics in July 2021.
 
 My research aims at bridging programming language and natural language. Specifically, I focus on
@@ -20,6 +20,8 @@ My research aims at bridging programming language and natural language. Specific
   code generation \[[https://arxiv.org/pdf/2502.11466 GiFT'25]\], and the synergy of the two through Generation-Augmented Retrieval \[[https://arxiv.org/pdf/2401.04514.pdf ReCo'24]\]
  and Retrieval-Augmented Generation framework.
 
+*I am on the job market this year! Please feel free to reach out if you’d like to discuss opportunities.
+You can find my [./CV.pdf CV] here.*
 
 #~~~
 #{}{raw}
@@ -35,7 +37,7 @@ My research aims at bridging programming language and natural language. Specific
 #- *2022/09.* New paper accepted at EMSE 2022.
 
 
-== Publications 
+== Selected Publications
 #Note: * for corresponding author, \# for equal contribution.
 
 === Preprints
@@ -81,7 +83,7 @@ Topic: Code Representation Learning
 == Professional services
 Conference Reviewer / PC Members:
 - 2025: ICML, NeurIPS, ACL ARR
-- 2024: NeurIPS, ICLR, ACL ARR, EMNLP Industry Track
+- 2024: NeurIPS, ICLR, ACL ARR, EMNLP Industry Track (*EMNLP 2024 Outstanding Reviewer*)
 - 2023: ACL, EMNLP, EMNLP Industry Track
 - 2022: EMNLP
 
