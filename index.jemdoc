@@ -41,10 +41,7 @@ You can find my [./CV.pdf CV] here.*
 #Note: * for corresponding author, \# for equal contribution.
 
 === Preprints
-. GiFT: Gibbs Fine-Tuning for Code Generation \n
-  *Haochen Li*, Wanjin Feng, Xin Zhou and Zhiqi Shen \n
-  Arxiv, 2025.
-  \[[https://arxiv.org/abs/2502.11466 paper]\]
+
 . Towards Goal-oriented Prompt Engineering for Large Language Models: A Survey \n
   *Haochen Li*, Jonathan Leung, and Zhiqi Shen \n
   Arxiv, 2024.
@@ -52,6 +49,10 @@ You can find my [./CV.pdf CV] here.*
 
 === Conferences and Journals
 
+. GiFT: Gibbs Fine-Tuning for Code Generation \n
+  *Haochen Li*, Wanjin Feng, Xin Zhou and Zhiqi Shen \n
+  In The 63rd Annual Meeting of the Association for Computational Linguistics. (*ACL 2025*) \n
+  \[[https://arxiv.org/pdf/2502.11466 paper]\] \[[https://github.com/Alex-HaochenLi/GiFT code]\]
 . Rewriting the Code: A Simple Method for Large Language Model Augmented Code Search \n
   *Haochen Li*, Xin Zhou, and Zhiqi Shen \n
   In The 62nd Annual Meeting of the Association for Computational Linguistics. (*ACL 2024 Oral*) \n
