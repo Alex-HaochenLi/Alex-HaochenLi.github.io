@@ -2,7 +2,7 @@
 ==Haochen Li's  Homepage
 
 ~~~
-{}{img_left}{pic/profile.jpg}{alt text}{200}{225}{https://alex-haochenli.github.io/}
+{}{img_left}{assets/profile.jpg}{alt text}{200}{225}{https://alex-haochenli.github.io/}
 Ph.D Student \n
 College of Computing and Data Science \n
 Nanyang Technological University, Singapore \n
@@ -19,10 +19,10 @@ My PhD research aims at bridging programming language and natural language. Spec
  code search (code retrieval) \[[https://aclanthology.org/2022.emnlp-main.327.pdf RACS'22], [https://aclanthology.org/2023.emnlp-main.786.pdf Soft-InfoNCE'23]\],
   code generation \[[https://arxiv.org/pdf/2502.11466 GiFT'25]\], and the synergy of the two through Generation-Augmented Retrieval \[[https://arxiv.org/pdf/2401.04514.pdf ReCo'24]\]
  and Retrieval-Augmented Generation framework. Feel free to check
- out the [https://docs.google.com/presentation/d/1oFD5TZNOBrI68r8ZZTGYSuSSjx4tJap9qaIcrUeVpn8/edit?usp=sharing slide] for a quick look at my research.
+ out the [assets/Semantic_Alignment_between_NL_and_Code.pdf slide] for a quick look at my research.
 
 *I am on the job market this year! Please feel free to reach out if you’d like to discuss opportunities.
-You can find my [./CV.pdf CV] here.*
+You can find my [./assets/CV.pdf CV] here.*
 
 #~~~
 #{}{raw}
